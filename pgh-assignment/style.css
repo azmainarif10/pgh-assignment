@@ -65,4 +65,33 @@
 .ac-img{
     border-radius: 48px;
 }
-
+.pu-sc{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.pc-nu{
+color: rgba(78, 71, 255, 1);
+font-family:"Inter", sans-serif; 
+font-weight:bold;
+font-size: 80px;
+margin: 0px;
+}
+.pc-tx{
+    font-family:"Inter", sans-serif; 
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    margin: 0px;
+    border-style: none;}
+    .productive-user{
+         background-color: rgba(78, 71, 255, 0.1); 
+         height: 200px;
+         width: 1200;
+         padding: 25px 142px 200px;
+         margin-left: 333px;
+         margin-right: 333px;
+         border-radius: 24px;
+         margin-top: 100px;
+}
+    
+   
