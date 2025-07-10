@@ -1,0 +1,50 @@
+.navbar-section{
+    display: flex;
+    justify-content:space-between;
+    align-items:top;
+    background-image:url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    height:700px;
+}
+.website{
+    color:rgba(78, 71, 255, 1);
+    font-weight:bold;
+    font-size:22px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin-top: 50px;
+  margin-left:150px;
+}
+.modify{
+    background-color: rgba(78, 71, 255, 1);
+    border: none;
+    border-radius: 10px;
+    color:white;
+    padding: 12px 36px;
+}
+.su-btn{
+    margin-top: 50px;
+    margin-right: 150px;
+}
+
+    .text{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size:65px;
+  margin-top: 300px;
+  text-align: center;
+}
+.modify-sf{
+     background-color: rgba(78, 71, 255, 1);
+    border: none;
+    border-radius: 10px;
+    color:white;
+    padding: 12px 36px;
+    margin-top:37px;
+    text-align: center;
+}
