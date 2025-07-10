@@ -2,11 +2,12 @@
     display: flex;
     justify-content:space-between;
     align-items:top;
-    background-image:url(Images/Hero-bg.png);
+    background-image:url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
     background-repeat: none;
     background-size: cover;
     background-position: center;
     height:700px;
+    margin-bottom: 150px;
 }
 .website{
     color:rgba(78, 71, 255, 1);
@@ -48,3 +49,20 @@
     margin-top:37px;
     text-align: center;
 }
+.action-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.btn-ll{
+      background-color: rgba(78, 71, 255, 1);
+    border: none;
+    border-radius: 10px;
+    color:white;
+    padding: 12px 36px;
+    text-align: center;
+}
+.ac-img{
+    border-radius: 48px;
+}
+
