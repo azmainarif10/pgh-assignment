@@ -28,11 +28,16 @@
     color:white;
     padding: 12px 36px;
 }
+.modify :hover{
+    background-color: lightskyblue;
+}
 .su-btn{
     margin-top: 50px;
     margin-right: 150px;
 }
-
+.su-btn :hover{
+    background-color: lightskyblue;
+}
     .text{
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -51,6 +56,9 @@
     margin-top:37px;
     text-align: center;
 }
+.modify-sf:hover{
+    background-color: lightskyblue;
+}
 .action-section{
     display: flex;
     justify-content: space-evenly;
@@ -63,6 +71,9 @@
     color:white;
     padding: 12px 36px;
     text-align: center;
+}
+.btn-ll:hover{
+    background-color: lightskyblue;
 }
 .ac-img{
     border-radius: 48px;
@@ -99,8 +110,10 @@ margin: 0px;
 .users-review{
     width:350px;
     height: 240px;
-    background-color: rgba(255, 255, 255, 0.5);
-    box-shadow: rgba(242, 237, 237, 1);
+    background-color:rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 5px rgba(242, 237, 237, 1);
+    border-radius: 14px;
+    padding: 24px;
 
 }
 .user-profile{
@@ -116,12 +129,14 @@ margin: 0px;
 
     
  }
+ .upmost{
+    background-color: rgba(214, 221, 237, 0.7);
+ }
  .final-preview{
     display: flex;
-    justify-content: space-around;
-    margin-left: 270px;
-    align-items: center;
-    margin-right: 200px;
+    justify-content: center;
+    gap: 15px;
+align-items: center;
     margin-top: 30px;
  }  
 .news-letter{
@@ -149,6 +164,9 @@ margin: 0px;
     width:500px;
     border-radius: 10px;
     margin-top: 5px;
+}
+.btn-gt:hover{
+background-color: lightskyblue;
 }
 .full-previewe{
     background-color: rgba(214, 221, 237, 0.7);
@@ -191,4 +209,9 @@ margin: 0px;
         color: rgba(137, 135, 161, 1);
         gap: 62px;
     }
-    
+    .gap-section{
+        background-color:rgba(214, 221, 237, 0.7); 
+        margin: 0px;
+        padding: 0px;
+    }
+
