@@ -7,8 +7,10 @@
     background-size: cover;
     background-position: center;
     height:700px;
-    margin-bottom: 150px;
-}
+    margin-bottom: 150px;}
+    .upmost{
+        background-color: rgba(214, 221, 237, 0.7);
+    }
 .website{
     color:rgba(78, 71, 255, 1);
     font-weight:bold;
@@ -97,7 +99,7 @@ margin: 0px;
 .users-review{
     width:350px;
     height: 240px;
-    background-color: rgba(255, 255, 255, 0.5) 50%;
+    background-color: rgba(255, 255, 255, 0.5);
     box-shadow: rgba(242, 237, 237, 1);
 
 }
@@ -111,17 +113,60 @@ margin: 0px;
     font-weight: bold;
     font-size:42px;
     text-align: center;
-    margin-bottom: 100px;
+
+    
  }
  .final-preview{
     display: flex;
-    gap:40px;
-    margin-left:340px;
+    justify-content: space-around;
+    margin-left: 270px;
     align-items: center;
+    margin-right: 200px;
+    margin-top: 30px;
  }  
+.news-letter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:115px;
+    background-color: rgba(214, 221, 237, 0.7);
+    margin-top: 100px;
+} 
 
+.new-txt{
+    font-family:"Raleway", sans-serif; 
+    font-weight:bold;
+    font-size: 97px;
+}
+.new-txt p{
+    margin:0px;
+}
+.btn-gt{
+    background:linear-gradient(To right,rgba(148, 3, 253, 1),rgba(0, 173, 254, 1));
+    color:white;
+    padding: 19px 201px;
+    height:65px;
+    width:500px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.full-previewe{
+    background-color: rgba(214, 221, 237, 0.7);
+}
+.bx-ed{
+ height: 25px;
+ width: 450px;
+ border-radius: 10px;
+ padding: 20px;
+ font-size: 20px;
+}
 
-    
+  .message-box{
+    border-radius: 10px;
+ padding: 20px;
+ color: rgba(0, 0, 0, 0.5);
+ font-size: 20px;
+  }  
      
     
     
