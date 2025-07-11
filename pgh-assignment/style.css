@@ -167,6 +167,28 @@ margin: 0px;
  color: rgba(0, 0, 0, 0.5);
  font-size: 20px;
   }  
-     
-    
+     .ft-lg{
+         color:rgba(78, 71, 255, 1);
+    font-weight:bold;
+    font-size:100px;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  align-content: center;
+  margin-left: 770px;
+  margin-top: 120px;
+     }
+    .ft-text{
+        text-align: center;
+        color: rgba(137, 135, 161, 1);
+        font-size: 17px;
+    }
+    .about{
+        display: flex;
+    justify-content: center;
+        align-items: center;
+        list-style-type: none;
+        color: rgba(137, 135, 161, 1);
+        gap: 62px;
+    }
     
